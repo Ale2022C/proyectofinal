@@ -1,1 +1,47 @@
-html
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(47, 206, 206);
+        height: 50px;
+        width: 500px;
+        border: 2px solid coral;
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-bottom: 50px;
+        padding-top: 50px;
+        padding-left: 50px;
+        padding-bottom: 50px;
+        background-color: cornflowerblue;
+
+}       
+.segundo{
+    color: blue;
+}
+#tercero{
+    color: darkviolet;
+}
+main p{
+    color: rgb(33, 71, 110);
+}
+p strong{
+    font-style: italic;
+}
+p {
+    color: rgb(249, 209, 149);
+}
+p{
+    color: rgb(58, 109, 58);
+}
+span{
+    font-weight: bold;
+}
+main{
+    background-color: rgb(255, 198, 128);
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+    border: 1px;
+    padding: 10px;
+    background: rgb(168, 165, 166);
+    
+}
